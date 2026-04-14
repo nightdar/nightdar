@@ -1,16 +1,16 @@
-## Hi there 👋
+```js
+import Desenvolvedor from "nightdar";
 
-<!--
-**nightdar/nightdar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+class SobreMim extends Desenvolvedor {
+  nome = "Bryan Felipe Pacanaro Cabeça";
+  area = "Estudante de TI e trabalhador no resto de tempo";
+  trabalho = "Milleniun";
+  local = "Salto";
+}
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+class Skills extends Desenvolvedor {
+  linguagens = ["Nenhuma no Momento"];
+  bibliotecas = ["Não sei o que é isso"];
+  frameworks = ["Tambem não faço ideia do que é isso"];
+}
+```
