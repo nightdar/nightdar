@@ -1,16 +1,13 @@
-```js
-import Desenvolvedor from "nightdar";
+<h1 align="center">👋 Olá, eu sou o Bryan</h1>
 
-class SobreMim extends Desenvolvedor {
-  nome = "Bryan Felipe Pacanaro Cabeça";
-  area = "Estudante de TI e trabalhador no resto de tempo";
-  trabalho = "Milleniun";
-  local = "Salto";
-}
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=Desenvolvedor+em+formação;Apaixonado+por+tecnologia;Sempre+aprendendo!" />
+</p>
 
-class Skills extends Desenvolvedor {
-  linguagens = ["Nenhuma no Momento"];
-  bibliotecas = ["Não sei o que é isso"];
-  frameworks = ["Tambem não faço ideia do que é isso"];
-}
-```
+## 🚀 Tecnologias
+- Java
+- Python
+- HTML/CSS
+
+## 📊 Estatísticas
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical"/>
