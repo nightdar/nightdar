@@ -1,27 +1,31 @@
-<h1 align="center">Olá, eu sou o Bryan 👋</h1>
+<h1 align="center">🧭 Bryan Felipe</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+em+formação;Focado+em+melhorar+meu+conhecimento;Sempre+aprendendo+novas+tecnologias" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=38BDF8&size=23&center=true&vCenter=true&width=600&lines=Minha+jornada+na+tecnologia;Aprendendo+e+evoluindo;Transformando+ideias+em+código" />
 </p>
 
----
-
-## 👨‍💻 Sobre mim
-- 🎓 Estudante de programação
-- 🚀 Buscando evoluir constantemente
-- 💡 Interesse em desenvolvimento web e aplicações
-
----
-
-## 🛠️ Tecnologias
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,git" />
-</p>
-
----
-
-## 📊 Estatísticas
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nightdar&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=nightdar&theme=tokyonight"/>
+  <img src="https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif" width="380"/>
 </p>
+
+---
+
+## 🚀 Quem sou eu
+Sou um futuro desenvolvedor que está sempre procurando saber mais e mais.
+
+---
+
+## 📈 Minha jornada
+- 🟢 Começando com lógica de programação
+- 🟡 Aprendendo linguagem de programação
+- 🔵 Evoluindo meu conhecimento com projetos
+
+---
+
+## 🎯 Objetivo
+Crescer na área de tecnologia e me tornar um desenvolvedor completo.
+
+---
+
+## 🛠️ Estudo
+<img src="https://skillicons.dev/icons?i=cs,js,mysql,html,css" />
